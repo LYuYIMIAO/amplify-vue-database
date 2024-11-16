@@ -11,6 +11,7 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
+    "@aws-amplify/ui-vue": "^4.2.22",
     "aws-amplify": "^6.6.6",
     "vue": "^3.4.21"
   },
@@ -25,7 +26,7 @@
     "aws-cdk-lib": "^2.137.0",
     "constructs": "^10.3.0",
     "esbuild": "^0.20.2",
-    "npm-run-all2": "^6.1.2",
+    "npm-run-all": "^4.1.5",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5",
     "vite": "^5.4.10",
